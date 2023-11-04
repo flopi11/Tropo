@@ -2,5 +2,3 @@
 Tropo
 Tropi
 T
-
-e
