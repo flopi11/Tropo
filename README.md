@@ -3,4 +3,3 @@ Tropo
 Tropi
 T
 gg
-o
