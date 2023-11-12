@@ -2,4 +2,3 @@
 Tropo
 Tropi
 T
-g
