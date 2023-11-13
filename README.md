@@ -1,4 +1,3 @@
 # Tropo
 Tropo
 Tropi
-T
