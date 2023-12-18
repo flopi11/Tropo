@@ -1,7 +1,6 @@
 # Tropo
 Trop
 ff
-rrgdg'rswxw
-
+rrgdg'rsxw
 ggff
 ff
